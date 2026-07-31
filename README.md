@@ -1,66 +1,66 @@
-```markdown
+```html
 <h1 align="center">Hi 👋, I'm Arjun Adhikari</h1>
 
-<h3 align="center">
-Full Stack Developer from Nepal 🇳🇵
-</h3>
+<h3 align="center">Full Stack Developer from Nepal 🇳🇵</h3>
 
 <p align="center">
 Passionate about building scalable web applications, backend systems, APIs, and real-time applications.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arjun-adhikari&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=arjun-adhikari&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
----
+<hr>
 
-## 🚀 About Me
+<h2>🚀 About Me</h2>
 
-- 💻 Full Stack Developer focused on **Node.js, Next.js, React, Express.js, PostgreSQL, and MongoDB**
-- 🌱 Currently learning **System Design, Authentication, WebSockets, GraphQL, and Scalable Backend Architecture**
-- 🔥 Interested in **Backend Engineering**, **Real-Time Systems**, and **API Design**
-- 👯 Open to collaborating on **Backend Projects** and **Open Source**
-- 📚 Continuously learning and building real-world applications
-- 📫 Email: **your-email@example.com**
+<ul>
+  <li>💻 Full Stack Developer focused on <b>Node.js, Next.js, React, Express.js, PostgreSQL, and MongoDB</b></li>
+  <li>🌱 Currently learning <b>System Design, Authentication, WebSockets, GraphQL, and Scalable Backend Architecture</b></li>
+  <li>🔥 Interested in <b>Backend Engineering, Real-Time Systems, and API Design</b></li>
+  <li>👯 Open to collaborating on <b>Backend Projects</b> and <b>Open Source</b></li>
+  <li>📚 Always learning and building real-world applications</li>
+  <li>📫 Email: <b>your-email@example.com</b></li>
+</ul>
 
----
+<hr>
 
-## 🛠️ Tech Stack
+<h2>🛠 Tech Stack</h2>
 
-### Languages
+<h3>Languages</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp,c" />
+  <img src="https://skillicons.dev/icons?i=js,ts,c,cpp" />
 </p>
 
-### Frontend
+<h3>Frontend</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs" />
 </p>
 
-### Backend
+<h3>Backend</h3>
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### Database
+<h3>Database</h3>
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
 </p>
 
-### Tools
+<h3>Tools</h3>
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
 </p>
 
----
+<hr>
 
-## 📈 GitHub Statistics
+<h2>📈 GitHub Statistics</h2>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arjun-adhikari&show_icons=true&theme=github_dark&hide_border=true" />
@@ -71,58 +71,60 @@ Passionate about building scalable web applications, backend systems, APIs, and 
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-adhikari&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
----
+<hr>
 
-## 🏆 GitHub Trophies
+<h2>🏆 GitHub Trophies</h2>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=arjun-adhikari&theme=algolia&no-frame=true&row=1&column=7" />
 </p>
 
----
+<hr>
 
-## 🎯 Currently Learning
+<h2>🎯 Currently Learning</h2>
 
-- ⚡ Building scalable backend systems
-- 🔐 Authentication & Authorization
-- 🌐 REST APIs & GraphQL
-- 💬 Real-time applications (Socket.IO, WebSockets)
-- 🏗️ System Design
-- ☁️ Cloud Deployment
+<ul>
+  <li>⚡ Scalable Backend Systems</li>
+  <li>🔐 Authentication & Authorization</li>
+  <li>💬 Socket.IO & WebSockets</li>
+  <li>📡 REST APIs & GraphQL</li>
+  <li>🏗 System Design</li>
+  <li>☁ Cloud Deployment</li>
+</ul>
 
----
+<hr>
 
-## 🚀 Featured Projects
+<h2>🚀 Featured Projects</h2>
 
-- 💬 **Real-Time Chat Application**
-- 🔐 **Authentication & Authorization System**
-- 📱 **Meta Graph API Integration**
-- 📦 **REST API Backend with Express & PostgreSQL**
-- 🌐 **Next.js Full Stack Applications**
+<ul>
+  <li>💬 Real-Time Chat Application</li>
+  <li>📱 Meta Graph API Integration</li>
+  <li>🔐 Authentication System</li>
+  <li>🌐 Next.js Full Stack Applications</li>
+  <li>📦 REST API Backend with Express & PostgreSQL</li>
+</ul>
 
----
+<hr>
 
-## 🤝 Connect With Me
+<h2>🤝 Connect With Me</h2>
 
-<p align="left">
+<p>
+  <a href="https://github.com/arjun-adhikari">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 
-<a href="https://github.com/arjun-adhikari">
-  <img src="https://skillicons.dev/icons?i=github" />
-</a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:your-email@example.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
+  <a href="mailto:your-email@example.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
 
----
+<hr>
 
-<p align="center">
+<h3 align="center">
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
-</p>
+</h3>
 ```
