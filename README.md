@@ -1,28 +1,128 @@
+```markdown
 <h1 align="center">Hi 👋, I'm Arjun Adhikari</h1>
-<h3 align="center">A passionate MERN STACK developer from Nepal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arjun-adhikari&label=Profile%20views&color=0e75b6&style=flat" alt="arjun-adhikari" /> </p>
+<h3 align="center">
+Full Stack Developer from Nepal 🇳🇵
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjun-adhikari" alt="arjun-adhikari" /></a> </p>
-
-- 🌱 I’m currently learning **Nodejs,MongoDB,Expressjs**
-
-- 👯 I’m looking to collaborate on **Backend Projects**
-
-- 📄 Know about my experiences [Fresher](Fresher)
-
-<h3 align="left">Connect with me:</h3>
-
-
-<img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" >
-<p align="left">
+<p align="center">
+Passionate about building scalable web applications, backend systems, APIs, and real-time applications.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arjun-adhikari&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjun-adhikari&show_icons=true&locale=en&layout=compact" alt="arjun-adhikari" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arjun-adhikari&show_icons=true&locale=en" alt="arjun-adhikari" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arjun-adhikari&" alt="arjun-adhikari" /></p>
+- 💻 Full Stack Developer focused on **Node.js, Next.js, React, Express.js, PostgreSQL, and MongoDB**
+- 🌱 Currently learning **System Design, Authentication, WebSockets, GraphQL, and Scalable Backend Architecture**
+- 🔥 Interested in **Backend Engineering**, **Real-Time Systems**, and **API Design**
+- 👯 Open to collaborating on **Backend Projects** and **Open Source**
+- 📚 Continuously learning and building real-world applications
+- 📫 Email: **your-email@example.com**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,c" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+</p>
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arjun-adhikari&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arjun-adhikari&theme=github-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-adhikari&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arjun-adhikari&theme=algolia&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 🎯 Currently Learning
+
+- ⚡ Building scalable backend systems
+- 🔐 Authentication & Authorization
+- 🌐 REST APIs & GraphQL
+- 💬 Real-time applications (Socket.IO, WebSockets)
+- 🏗️ System Design
+- ☁️ Cloud Deployment
+
+---
+
+## 🚀 Featured Projects
+
+- 💬 **Real-Time Chat Application**
+- 🔐 **Authentication & Authorization System**
+- 📱 **Meta Graph API Integration**
+- 📦 **REST API Backend with Express & PostgreSQL**
+- 🌐 **Next.js Full Stack Applications**
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/arjun-adhikari">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:your-email@example.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+</p>
+```
