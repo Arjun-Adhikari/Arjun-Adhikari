@@ -10,11 +10,9 @@ Passionate about building scalable web applications, backend systems, APIs, and 
 <h2>🚀 About Me</h2>
 <ul>
   <li>💻 Full Stack Developer focused on <b>Node.js, Next.js, React, Express.js, PostgreSQL, and MongoDB</b></li>
-  <li>🌱 Currently learning <b>System Design, Authentication, WebSockets, GraphQL, and Scalable Backend Architecture</b></li>
   <li>🔥 Interested in <b>Backend Engineering, Real-Time Systems, and API Design</b></li>
-  <li>👯 Open to collaborating on <b>Backend Projects</b> and <b>Open Source</b></li>
-  <li>📚 Always learning and building real-world applications</li>
-  <li>📫 Email: <b>your-email@example.com</b></li>
+  <li>📚 Lifelong Learner</li>
+  <li>📫 Email: <b>pubgaxis4@gmail.com</b></li>
 </ul>
 <hr>
 <h2>🛠 Tech Stack</h2>
@@ -33,13 +31,10 @@ Passionate about building scalable web applications, backend systems, APIs, and 
 <hr>
 <h2>🤝 Connect With Me</h2>
 <p>
-  <a href="https://github.com/arjun-adhikari">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
   <a href="https://np.linkedin.com/in/arjun-adhikari-4406442a4?trk=people-guest_people_search-card">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:pubgaxis4@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
