@@ -21,11 +21,23 @@ Passionate about building scalable web applications, backend systems, APIs, and 
 </p>
 <hr>
 <h2>📈 GitHub Statistics</h2>
+
 <p align="center">
-  <img width="48%" src="https://streak-stats.demolab.com?user=arjun-adhikari&theme=github-dark&hide_border=true" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arjun-adhikari&theme=github_dark" />
 </p>
+
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-adhikari&layout=compact&theme=github_dark&hide_border=true" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arjun-adhikari&theme=github_dark" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arjun-adhikari&theme=github_dark" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arjun-adhikari&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://streak-stats.demolab.com?user=arjun-adhikari&theme=github-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=arjun-adhikari&theme=github-dark&hide_border=true" />
 </p>
 <hr>
 <h2>🤝 Connect With Me</h2>
