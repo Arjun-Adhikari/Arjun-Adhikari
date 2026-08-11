@@ -17,7 +17,7 @@ Passionate about building scalable web applications, backend systems, APIs, and 
 <hr>
 <h2>🛠 Tech Stack</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,postgres,mongodb,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,postgres,mongodb,nodejs,express,aws" />
 </p>
 <hr>
 <h2>📈 GitHub Statistics</h2>
