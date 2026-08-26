@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arjun Adhikari</h1>
 <h3 align="center">Full Stack Developer from Nepal 🇳🇵</h3>
 <p align="center">
-Passionate about building scalable web applications, backend systems, APIs, and real-time applications.
+Passionate about building scalable web applications, backend systems, APIs, and real-time applications trying to discover the power of ai.
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arjun-adhikari&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
