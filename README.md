@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arjun Adhikari</h1>
-<h3 align="center">Full Stack Developer from Nepal🇳🇵</h3>
+<h3 align="center">Full Stack Developer from Nepal🇳🇵!</h3>
 <p align="center">
 Passionate about building scalable web applications, backend systems, APIs, and real-time application
 </p>
