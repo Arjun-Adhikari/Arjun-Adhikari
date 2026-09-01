@@ -3,9 +3,6 @@
 <p align="center">
 Passionate about building scalable web applications, backend systems, APIs, and real-time application
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arjun-adhikari&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
 <hr>
 <h2>🚀 About Me</h2>
 <ul>
