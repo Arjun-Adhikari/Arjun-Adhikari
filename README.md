@@ -17,17 +17,17 @@ Passionate about building scalable web applications, backend systems, APIs, and 
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,postgres,mongodb,nodejs,express,aws" />
 </p>
 <hr>
-<h2>📈 GitHub Statistics</h2>
+<!-- <h2>📈 GitHub Statistics</h2> -->
 
-<p align="center">
+<!-- <p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arjun-adhikari&theme=github_dark" />
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arjun-adhikari&theme=github_dark" />
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arjun-adhikari&theme=github_dark" />
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arjun-adhikari&theme=github_dark" />
-</p>
+</p> -->
 
 <p align="center">
   <img width="60%" src="https://streak-stats.demolab.com?user=arjun-adhikari&theme=github-dark&hide_border=true" />
