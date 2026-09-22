@@ -29,13 +29,13 @@ Passionate about building scalable web applications, backend systems, APIs, and 
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arjun-adhikari&theme=github_dark" />
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img width="60%" src="https://streak-stats.demolab.com?user=arjun-adhikari&theme=github-dark&hide_border=true" />
 </p>
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=arjun-adhikari&theme=github-dark&hide_border=true" />
-</p>
+</p> -->
 <hr>
 <h2>🤝 Connect With Me</h2>
 <p>
